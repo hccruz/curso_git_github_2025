@@ -1,3 +1,5 @@
 Arquivo 01 criado
 
-Meu Deus que doideira este curso, está bem legal!
+<<<<<<< HEAD
+Meu Deus que doideira este curso! Está bem legal!
+
